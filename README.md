@@ -9,3 +9,7 @@
 4. Move input image to `image-enhancer/static/uploads/`
 5. `python __init__.py`<br><br>
 For models, contact [Abhinandan Dogra](https://github.com/Abhinandan11)
+
+Sample Output:<br>
+![Input](static/uploads/input.png)
+![Output](static/result/output.png)
